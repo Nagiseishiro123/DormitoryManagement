@@ -103,7 +103,7 @@ _To run the demo version of this application, you need to follow these steps:_
 
 * Nguyễn Đức Bình - [@binhnguyen3816](https://github.com/binhnguyen3816) - binhnguyen3816@gmail.com
 * Nguyễn Duy Tùng - [@tndgoat](https://github.com/tndgoat) - tungnd.goat@gmail.com
-* Từ Mai Thế Nhân - [@binhnguyen3816](https://github.com/binhnguyen3816) - binhnguyen3816@gmail.com
+* Từ Mai Thế Nhân - [@binhnguyen3816](https://github.com/Nagiseishiro123) - nhan.tu2107@hcmut.edu.vn
 * Lê Hoàng Anh Vũ - [@binhnguyen3816](https://github.com/binhnguyen3816) - binhnguyen3816@gmail.com
 * Đinh Vũ Hà - [@binhnguyen3816](https://github.com/binhnguyen3816) - binhnguyen3816@gmail.com
 Project Link: [https://github.com/binhnguyen3816/DormitoryManagement](https://github.com/binhnguyen3816/DormitoryManagement)
